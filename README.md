@@ -1,2 +1,2 @@
 # biosensors2021S1
-This project is in biosensors&amp;bioelectronics class
+Project based learning in biosensors&amp;bioelectronics class
